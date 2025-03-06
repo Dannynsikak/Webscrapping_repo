@@ -1,2 +1,3 @@
 .venv/
 books_scraped.csv
+authors_scraped.csv
